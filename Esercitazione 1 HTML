@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina di presentazione</title>
+</head>
+<body>
+    
+    <h1 style="color:rgb(74, 11, 11); text-align:left;">Presentazione di Melissa Demurtas</h1>
+        <img src="https://imgur.com/8MaqKec" alt="foto di laurea" style="width: 300px;"/>
+    <a href="https://imgur.com/8MaqKec">View post on imgur.com</a>
+    <div style="color: blue;">
+        <h2>Lista dei miei hobby</h2>
+        <ol>
+            <li>Disegno su tavoletta grafica</li>
+            <li>Modellismo</li>
+            <li>Crafting</li>
+            <li>Trekking</li>
+        </ol>
+        <h3>I miei interessi</h3>
+        <p>Attualmente sono interessata al mondo della programmazione, in particolare al profilo del fullstack web developer. 
+            Ho sempre avuto un particolare interesse per la Mitologia greca e norrena.</p>
+    </div>
+<div>
+    <h3>Contatti</h3>
+    <ul>
+        <li>email: melissa.demurtas@libero.com</li>
+        <li>cellulare: 3281153282</li>
+        <li>LinkedIn: https://www.linkedin.com/in/melissa-demurtas-965918234</li>
+    </ul>
+</div>
+<table border="1">
+     <tr>
+       <th>Esperienze scolastiche</th>
+       <th>Esperienze lavorative</th> 
+     </tr>
+     <tr>
+       <td>Viaggio-studio in Inghilterra</td>
+       <td>Stage scolastico in uno studio legale</td> 
+     </tr>
+    <tr>
+      <td>Viaggio-studio in Germania</td>
+      <td>Stage scolastico in un negozio di abbigliamento</td> 
+    </tr>
+    <tr>
+        <td>Viaggio studio in Spagna</td>
+        <td></td> 
+      </tr>
+  </table>
+</body>
+</html>
